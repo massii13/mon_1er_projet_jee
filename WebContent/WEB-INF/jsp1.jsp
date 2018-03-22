@@ -16,6 +16,7 @@
             	<form action="/mapage2" method="post">
             	<input type="text"  name="champs"/>
             	<input type="submit" value="valider"/>
+            	<
             	</form>
          
    
